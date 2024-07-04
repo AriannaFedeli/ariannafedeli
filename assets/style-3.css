@@ -11,6 +11,13 @@ a:hover {
     /* color: #444; */
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
 .noter {
     font-size: 9pt;
 }
